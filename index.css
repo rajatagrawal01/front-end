@@ -1,0 +1,31 @@
+h1{
+    color: yellow;
+    background-color: blue;
+}
+button{
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 30px;
+    /* font-style: italic; */
+    font-weight: bold;
+}
+p{
+    color: rgb(189, 69, 42); 
+    font-size: 16px; 
+    font-family: Georgia; 
+    background-color: lemonchiffon;
+    padding: 10px;
+    }
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 45%;
+    border-color: brown;
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Times New Roman;
+}
