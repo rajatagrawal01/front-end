@@ -1,0 +1,20 @@
+.box{
+    width: 180px;
+    height: 180px;
+    background-color: hsl(217, 73%, 88%);
+    /* margin-top: 200px; */
+    /* margin-bottom: 200px; */
+    /* margin-left: 200px; */
+    /* margin-right: 200px; */
+
+    margin: 200px;
+    border: 10px groove black;
+    padding: 50px;
+    
+}
+.box2{
+   width: 100px;
+   height: 100px;
+   background-color: yellow;
+   margin: 48px;
+}
