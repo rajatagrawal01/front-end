@@ -1,0 +1,17 @@
+h1{
+    text-align: justify;
+    /* text-decoration:underline;
+    text-decoration-color:yellow;
+    text-decoration-thickness: 5px;
+    text-decoration-style: wavy; */
+
+    text-transform: lowercase;
+
+    text-indent: 5%;
+    letter-spacing:2px;
+    word-spacing: 50px;
+    line-height: 200px;
+
+    text-shadow: 10px 2px yellow;
+
+}
