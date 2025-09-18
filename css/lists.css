@@ -19,6 +19,20 @@ ol li {
 
 }
 
+/* ol li:first-child{
+  color: blue;
+} */
+
+/* ol li:last-child{
+  color: blue;
+} */
+
+ol li:nth-child(odd){
+  color: blue;
+}
+
+
+
 ul li {
   background: #cce5ff;
   color: darkblue;

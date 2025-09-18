@@ -1,0 +1,17 @@
+.box{
+    width: 400px;
+    height: 500px;
+    background-color: red;
+    color: white;
+    border: 5px solid black;
+    border-radius: 100px;
+    /* transform: rotate(45deg); */
+    /* transform: rotateX(45deg); */
+    position: fixed;
+    /* background-image: url("../assets/image.jpg"); */
+
+    /* transform: scale(1.5); */
+    /* transform: skew(40deg); */
+    transform: translateY(300px) skew(45deg) rotate(25deg);
+
+} 

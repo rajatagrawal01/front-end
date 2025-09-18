@@ -1,0 +1,32 @@
+:root{
+    /* --varName:varvalue; */
+    --rang:green;
+    --secondaryColor:rgb(179, 244, 179);
+    --width:400px;
+}
+.box{
+    width:calc(var(--width)*1.5);
+    height: 500px;
+    background-color: var(--rang);
+    color: white;
+    border: 10px solid black;
+    float: left;
+}
+.box1{
+    width: 400px;
+    height: 500px;
+    background-color: var(--secondaryColor);
+    color: white;
+    border: 10px solid red;
+    float: left;
+
+}
+.box2{
+    width: 400px;
+    height: 500px;
+    background-color: var(--rang);
+    color: white;
+    border: 10px solid yellow;
+    float: left;
+
+}

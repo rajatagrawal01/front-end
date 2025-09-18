@@ -1,0 +1,14 @@
+.box{
+    width: 400px;
+    height: 500px;
+    background-color: red;
+    color: white;
+    border: 10px solid black;
+} 
+
+@media only screen and (min-width:400px){
+    .box{
+        background-color: blue;
+        color: yellow;
+    } 
+}
